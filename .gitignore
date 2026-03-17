@@ -2,6 +2,11 @@
 
 # machine learning 2024
 # Ignore folder and files in Data folder but keep the *.png, *.csv, *.ttf, and *.md files
-ml2024/Data/
+Machine_Learning_2024/Scripts/Data/
+ChatGLM-6B-main/
+ChatGLM-6B-main.tar.gz
+chatglm_6b.ipynb
+library_system/
+healthcare_system/
 
 .ipynb_checkpoints
