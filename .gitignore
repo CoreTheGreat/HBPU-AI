@@ -8,5 +8,7 @@ ChatGLM-6B-main.tar.gz
 chatglm_6b.ipynb
 library_system/
 healthcare_system/
+enterprise_answer\utils\__pycache__
 
 .ipynb_checkpoints
+enterprise_answer/.DS_Store
