@@ -12,3 +12,4 @@ enterprise_answer\utils\__pycache__
 
 .ipynb_checkpoints
 enterprise_answer/.DS_Store
+tmp/
