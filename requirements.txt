@@ -5,8 +5,10 @@ numpy>=1.24.0
 matplotlib>=3.7.0
 seaborn>=0.12.2
 
-# PyTorch（可选 CPU/CUDA，由 conda 安装 pytoch 见 README）
-# torch>=2.0.0
+# PyTorch (满足 Transformers 安全加载要求)
+torch>=2.6.0
+torchvision>=0.21.0
+torchaudio>=2.6.0
 
 # LLM 后端
 openai>=1.0.0
