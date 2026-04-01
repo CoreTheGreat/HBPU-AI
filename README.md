@@ -137,14 +137,10 @@ print('datasets', datasets.__version__)
 
 ### 5. 工程拉取补充说明
 
-models/uer_gpt2_chinese/model.safetensors文件过大无法上传如该文件，请自行下载
+models/uer_gpt2_chinese/model.safetensors等模型文件过大无法上传，请自行下载
 
-可运行 9_指令微调.ipynb 中的第一部自动下载模型
+1. 可运行.ipynb中的相关代码下载模型
 
-手动下载：
+2. 从网盘链接手动下载至models目录下
 
-方法一. 课程群文件中下载
-
-方法二. 网盘链接: https://pan.baidu.com/s/1gYJPvpX0N9OsuMgOXRK04A?pwd=dwt8
-
-保证下载的model.safetensors在models/uer_gpt2_chinese下
+网盘链接: https://pan.baidu.com/s/1gYJPvpX0N9OsuMgOXRK04A?pwd=dwt8
