@@ -13,9 +13,11 @@ enterprise_answer\utils\__pycache__
 .ipynb_checkpoints
 enterprise_answer/.DS_Store
 tmp/
-models/uer_gpt2_chinese/model.safetensors
+models/gpt2-chinese-cluecorpussmall/pytorch_model.bin
+models/gpt2-chinese-cluecorpussmall/.cache
 models/Qwen2-0.5B-Instruct/model.safetensors
 models/Qwen2-0.5B-Instruct/.cache
 models/Yuyuan-GPT2-110M-SciFi-Chinese/model.safetensors
 models/Yuyuan-GPT2-110M-SciFi-Chinese/.cache
 models/Yuyuan-GPT2-110M-SciFi-Chinese/pytorch_model.bin
+outputs/
