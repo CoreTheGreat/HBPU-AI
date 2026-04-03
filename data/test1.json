@@ -1,0 +1,422 @@
+[
+  {
+    "id": 1,
+    "category": "math",
+    "difficulty": "easy",
+    "question": "小明有5个苹果，小红给了他3个，请问小明现在一共有多少个苹果？",
+    "expected_answer": "8"
+  },
+  {
+    "id": 2,
+    "category": "math",
+    "difficulty": "easy",
+    "question": "一个长方形的长是8厘米，宽是3厘米，请问它的面积是多少平方厘米？",
+    "expected_answer": "24"
+  },
+  {
+    "id": 3,
+    "category": "math",
+    "difficulty": "easy",
+    "question": "妈妈买了2打鸡蛋（1打=12个），请问一共买了多少个鸡蛋？",
+    "expected_answer": "24"
+  },
+  {
+    "id": 4,
+    "category": "math",
+    "difficulty": "easy",
+    "question": "一辆公交车上有15人，到站后下去了6人，又上来了4人，请问车上现在有多少人？",
+    "expected_answer": "13"
+  },
+  {
+    "id": 5,
+    "category": "math",
+    "difficulty": "easy",
+    "question": "小刚有20元钱，买了一本书花了7元，买了一支笔花了3元，请问他还剩多少元？",
+    "expected_answer": "10"
+  },
+  {
+    "id": 6,
+    "category": "math",
+    "difficulty": "easy",
+    "question": "一个正方形的边长是5厘米，请问它的周长是多少厘米？",
+    "expected_answer": "20"
+  },
+  {
+    "id": 7,
+    "category": "math",
+    "difficulty": "easy",
+    "question": "3个小朋友平均分12块糖果，每人分到几块？",
+    "expected_answer": "4"
+  },
+  {
+    "id": 8,
+    "category": "math",
+    "difficulty": "easy",
+    "question": "从1加到10的和是多少？",
+    "expected_answer": "55"
+  },
+  {
+    "id": 9,
+    "category": "math",
+    "difficulty": "easy",
+    "question": "一只兔子有4条腿，5只兔子一共有多少条腿？",
+    "expected_answer": "20"
+  },
+  {
+    "id": 10,
+    "category": "math",
+    "difficulty": "easy",
+    "question": "时钟显示3点整，时针和分针之间的夹角是多少度？",
+    "expected_answer": "90"
+  },
+  {
+    "id": 11,
+    "category": "math",
+    "difficulty": "medium",
+    "question": "一个水池有两个水管，甲管单独注满需要6小时，乙管单独注满需要3小时。两管同时打开，几小时能注满水池？",
+    "expected_answer": "2"
+  },
+  {
+    "id": 12,
+    "category": "math",
+    "difficulty": "medium",
+    "question": "小明从家到学校步行需要30分钟，骑自行车的速度是步行的3倍，请问骑自行车需要多少分钟？",
+    "expected_answer": "10"
+  },
+  {
+    "id": 13,
+    "category": "math",
+    "difficulty": "medium",
+    "question": "一件衣服原价200元，先打8折，再打9折，最终售价是多少元？",
+    "expected_answer": "144"
+  },
+  {
+    "id": 14,
+    "category": "math",
+    "difficulty": "medium",
+    "question": "一个两位数，十位上的数字比个位上的数字大3，且两个数字之和为9。这个两位数是多少？",
+    "expected_answer": "63"
+  },
+  {
+    "id": 15,
+    "category": "math",
+    "difficulty": "medium",
+    "question": "甲乙两人同时从A地出发去B地，甲每小时走5公里，乙每小时走3公里，4小时后甲比乙多走了多少公里？",
+    "expected_answer": "8"
+  },
+  {
+    "id": 16,
+    "category": "math",
+    "difficulty": "medium",
+    "question": "一个长方体的长是5厘米，宽是4厘米，高是3厘米，请问它的体积是多少立方厘米？",
+    "expected_answer": "60"
+  },
+  {
+    "id": 17,
+    "category": "math",
+    "difficulty": "medium",
+    "question": "某班有45名学生，男生比女生多5人，请问女生有多少人？",
+    "expected_answer": "20"
+  },
+  {
+    "id": 18,
+    "category": "math",
+    "difficulty": "medium",
+    "question": "一个等差数列的首项是2，公差是3，请问第10项是多少？",
+    "expected_answer": "29"
+  },
+  {
+    "id": 19,
+    "category": "math",
+    "difficulty": "medium",
+    "question": "把一根绳子对折3次后，从中间剪一刀，绳子被剪成了多少段？",
+    "expected_answer": "9"
+  },
+  {
+    "id": 20,
+    "category": "math",
+    "difficulty": "medium",
+    "question": "一个圆的半径是7厘米，请问它的面积大约是多少平方厘米？（π取3.14，结果保留两位小数）",
+    "expected_answer": "153.86"
+  },
+  {
+    "id": 21,
+    "category": "math",
+    "difficulty": "hard",
+    "question": "有一列数：1, 1, 2, 3, 5, 8, 13, ...（斐波那契数列），请问第12项是多少？",
+    "expected_answer": "144"
+  },
+  {
+    "id": 22,
+    "category": "math",
+    "difficulty": "hard",
+    "question": "一个三位数，各位数字之和为15，百位数字是个位数字的2倍，十位数字比个位数字大1。这个三位数是多少？",
+    "expected_answer": "654"
+  },
+  {
+    "id": 23,
+    "category": "math",
+    "difficulty": "hard",
+    "question": "将123×456的结果算出来，请给出最终答案。",
+    "expected_answer": "56088"
+  },
+  {
+    "id": 24,
+    "category": "math",
+    "difficulty": "hard",
+    "question": "一楼到十楼的楼梯共有多少层台阶？已知每两层之间有18级台阶。",
+    "expected_answer": "162"
+  },
+  {
+    "id": 25,
+    "category": "math",
+    "difficulty": "hard",
+    "question": "一个正方体的表面积是150平方厘米，请问这个正方体的体积是多少立方厘米？",
+    "expected_answer": "125"
+  },
+  {
+    "id": 26,
+    "category": "math",
+    "difficulty": "hard",
+    "question": "甲、乙两人分别从A、B两地同时出发相向而行，甲每小时走6公里，乙每小时走4公里，两地相距50公里，几小时后两人相遇？",
+    "expected_answer": "5"
+  },
+  {
+    "id": 27,
+    "category": "math",
+    "difficulty": "hard",
+    "question": "某商品进价为80元，标价为120元，至少打几折才能保证不亏本？（结果用数字表示几折，如八折写8）",
+    "expected_answer": "7"
+  },
+  {
+    "id": 28,
+    "category": "math",
+    "difficulty": "hard",
+    "question": "一个数除以7余3，除以5余2，除以3余1，这个最小的正整数是多少？",
+    "expected_answer": "52"
+  },
+  {
+    "id": 29,
+    "category": "math",
+    "difficulty": "hard",
+    "question": "已知 2^10 = 1024，请问 2^20 等于多少？",
+    "expected_answer": "1048576"
+  },
+  {
+    "id": 30,
+    "category": "math",
+    "difficulty": "hard",
+    "question": "一个等比数列的首项是3，公比是2，请问前5项之和是多少？",
+    "expected_answer": "93"
+  },
+  {
+    "id": 31,
+    "category": "logic",
+    "difficulty": "easy",
+    "question": "小明的爸爸有三个儿子，大儿子叫大毛，二儿子叫二毛，三儿子叫什么？",
+    "expected_answer": "小明"
+  },
+  {
+    "id": 32,
+    "category": "logic",
+    "difficulty": "easy",
+    "question": "一个房间里有3盏灯，外面有3个开关，每个开关控制一盏灯。你只能进房间一次，如何确定每个开关对应哪盏灯？（请简述方法）",
+    "expected_answer": "先开第一个开关等几分钟关掉，再开第二个开关，进房间后亮的对应第二个开关，热的对应第一个开关，冷且不亮的对应第三个开关"
+  },
+  {
+    "id": 33,
+    "category": "logic",
+    "difficulty": "easy",
+    "question": "所有的玫瑰都是花，有些花是红色的。请问是否能推出\"有些玫瑰是红色的\"？回答\"能\"或\"不能\"。",
+    "expected_answer": "不能"
+  },
+  {
+    "id": 34,
+    "category": "logic",
+    "difficulty": "easy",
+    "question": "如果今天是星期三，那么再过100天是星期几？",
+    "expected_answer": "星期五"
+  },
+  {
+    "id": 35,
+    "category": "logic",
+    "difficulty": "easy",
+    "question": "农夫需要把狐狸、鸡和谷子带过河，船每次只能载一样。狐狸会吃鸡，鸡会吃谷子。农夫第一步应该先带什么过河？",
+    "expected_answer": "鸡"
+  },
+  {
+    "id": 36,
+    "category": "logic",
+    "difficulty": "easy",
+    "question": "一个房间有4个角，每个角有1只猫，每只猫面前有3只猫，请问房间里一共有几只猫？",
+    "expected_answer": "4"
+  },
+  {
+    "id": 37,
+    "category": "logic",
+    "difficulty": "easy",
+    "question": "小华说：\"我没有兄弟姐妹，但这个人的父亲是我父亲的儿子。\"请问\"这个人\"是谁？",
+    "expected_answer": "小华的儿子"
+  },
+  {
+    "id": 38,
+    "category": "logic",
+    "difficulty": "easy",
+    "question": "有5顶帽子，3顶白色2顶黑色。三个人站成一列，每人头上戴一顶帽子。最后面的人看到前两人的帽子说不知道自己的颜色，中间的人看到前面一人说也不知道。请问最前面的人知道自己帽子的颜色吗？",
+    "expected_answer": "知道，是白色"
+  },
+  {
+    "id": 39,
+    "category": "logic",
+    "difficulty": "easy",
+    "question": "树上有10只鸟，猎人开枪打死了1只，树上还剩几只鸟？",
+    "expected_answer": "0"
+  },
+  {
+    "id": 40,
+    "category": "logic",
+    "difficulty": "easy",
+    "question": "小明家有4个女儿，每个女儿都有1个哥哥。请问小明家一共有几个孩子？",
+    "expected_answer": "5"
+  },
+  {
+    "id": 41,
+    "category": "logic",
+    "difficulty": "medium",
+    "question": "A说B在说谎，B说C在说谎，C说A和B都在说谎。请问谁在说真话？（回答人名）",
+    "expected_answer": "B"
+  },
+  {
+    "id": 42,
+    "category": "logic",
+    "difficulty": "medium",
+    "question": "如果\"所有程序员都会写代码\"为真，且\"小王不会写代码\"为真，那么能否推出\"小王不是程序员\"？回答\"能\"或\"不能\"。",
+    "expected_answer": "能"
+  },
+  {
+    "id": 43,
+    "category": "logic",
+    "difficulty": "medium",
+    "question": "一个骰子掷两次，两次点数之和为8的概率是多少？（用分数表示）",
+    "expected_answer": "5/36"
+  },
+  {
+    "id": 44,
+    "category": "logic",
+    "difficulty": "medium",
+    "question": "有8个球，其中1个比较重，用天平最少称几次一定能找出较重的那个球？",
+    "expected_answer": "2"
+  },
+  {
+    "id": 45,
+    "category": "logic",
+    "difficulty": "medium",
+    "question": "甲对乙说：\"当我是你这么大的时候，你才3岁。\"乙对甲说：\"当我到你这么大的时候，你就39岁了。\"请问甲现在多大？",
+    "expected_answer": "27"
+  },
+  {
+    "id": 46,
+    "category": "logic",
+    "difficulty": "medium",
+    "question": "一列火车进入隧道需要30秒通过，隧道长1000米，火车长200米，请问火车的速度是多少米每秒？",
+    "expected_answer": "40"
+  },
+  {
+    "id": 47,
+    "category": "logic",
+    "difficulty": "medium",
+    "question": "用1、2、3、4这四个数字，可以组成多少个不重复的两位数？",
+    "expected_answer": "12"
+  },
+  {
+    "id": 48,
+    "category": "logic",
+    "difficulty": "medium",
+    "question": "小明和小红比赛跑步，小明说\"我前面有3个人\"，小红说\"我后面有4个人\"。如果小明和小红的名次相邻且小明在前，一共有几个人参加比赛？",
+    "expected_answer": "8"
+  },
+  {
+    "id": 49,
+    "category": "logic",
+    "difficulty": "medium",
+    "question": "ABCDE 五人参加比赛。已知：A 不是第一也不是第五；B 是第一或第二；C 的名次比 D 靠前；D 的名次比 E 靠前；如果 B 是第一名，那么第二名是谁？（A不可能在其他条件下确定，所以 B 是第一名时回答）",
+    "expected_answer": "A"
+  },
+  {
+    "id": 50,
+    "category": "logic",
+    "difficulty": "medium",
+    "question": "一根蜡烛长15厘米，点燃后每小时缩短3厘米。如果同时点燃后被风吹灭了2次，每次吹灭后浪费了1厘米（包含在总消耗中），4小时后蜡烛还剩多少厘米？",
+    "expected_answer": "1"
+  },
+  {
+    "id": 51,
+    "category": "logic",
+    "difficulty": "hard",
+    "question": "有100个人站成一排，从第1个开始报数。报到奇数的人出列，剩余的人重新从1开始报数，如此循环。最后剩下的人原来站在第几位？",
+    "expected_answer": "64"
+  },
+  {
+    "id": 52,
+    "category": "logic",
+    "difficulty": "hard",
+    "question": "一个岛上住着两种人：说真话的骑士和说假话的骗子。你遇到A和B，A说\"我们两个都是骗子\"。请问A和B分别是什么身份？",
+    "expected_answer": "A是骗子，B是骑士"
+  },
+  {
+    "id": 53,
+    "category": "logic",
+    "difficulty": "hard",
+    "question": "一个监狱里有100个犯人，编号1到100。看守说：我会随机挑选犯人进入一个房间，房间里有一盏灯（初始关闭）。如果任意时刻有犯人能确定所有100人都进过房间，全体释放。犯人们商量的最优策略中，被指定为\"计数者\"的犯人在灯被打开多少次后宣布？",
+    "expected_answer": "99"
+  },
+  {
+    "id": 54,
+    "category": "logic",
+    "difficulty": "hard",
+    "question": "某人说：\"如果这句话是真的，那么圣诞老人存在。\"请问从逻辑学角度，这句话是真话还是假话？",
+    "expected_answer": "这是一个逻辑悖论，无法确定真假"
+  },
+  {
+    "id": 55,
+    "category": "logic",
+    "difficulty": "hard",
+    "question": "有5个海盗分100枚金币。按顺序提方案，超过半数（含自己）同意则通过，否则提方案者被扔下海。假设海盗都绝对理性且贪婪，第一个海盗应如何分配？（格式：自己得X枚）",
+    "expected_answer": "98"
+  },
+  {
+    "id": 56,
+    "category": "logic",
+    "difficulty": "hard",
+    "question": "三个人住酒店，每人付10元共30元。后来老板说只要25元，让服务员退5元。服务员贪了2元，退给每人1元。每人实付9元，三人共付27元，加上服务员贪的2元等于29元。请问少的1元去哪了？",
+    "expected_answer": "不存在少1元的问题，27元中已包含服务员贪的2元，不能重复相加"
+  },
+  {
+    "id": 57,
+    "category": "logic",
+    "difficulty": "hard",
+    "question": "一个人花8元买了一只鸡，9元卖出；10元买回，11元再卖出。请问他总共赚了多少元？",
+    "expected_answer": "2"
+  },
+  {
+    "id": 58,
+    "category": "logic",
+    "difficulty": "hard",
+    "question": "蒙提霍尔问题：你选了A门，主持人打开了C门（后面是羊）。现在问你要不要换到B门。从概率角度来看，应该换还是不换？",
+    "expected_answer": "应该换"
+  },
+  {
+    "id": 59,
+    "category": "logic",
+    "difficulty": "hard",
+    "question": "你有两根材质不均匀的绳子，每根烧完恰好需要1小时。如何利用这两根绳子精确计时45分钟？",
+    "expected_answer": "同时点燃第一根的两端和第二根的一端，第一根烧完时过了30分钟，此时点燃第二根的另一端，第二根烧完恰好又过了15分钟"
+  },
+  {
+    "id": 60,
+    "category": "logic",
+    "difficulty": "hard",
+    "question": "有25匹马和5条赛道，每次最多5匹马比赛但没有计时器。最少需要比赛几次才能找出跑得最快的前3匹马？",
+    "expected_answer": "7"
+  }
+]
