@@ -11,19 +11,8 @@ healthcare_system/
 enterprise_answer\utils\__pycache__
 
 .ipynb_checkpoints
-enterprise_answer/.DS_Store
+enterprise_answer/
 tmp/
-models/gpt2-chinese-cluecorpussmall/pytorch_model.bin
-models/gpt2-chinese-cluecorpussmall/.cache
-models/Qwen2-0.5B-Instruct/model.safetensors
-models/Qwen2-0.5B-Instruct/.cache
-models/Yuyuan-GPT2-110M-SciFi-Chinese/model.safetensors
-models/Yuyuan-GPT2-110M-SciFi-Chinese/.cache
-models/Yuyuan-GPT2-110M-SciFi-Chinese/pytorch_model.bin
-models/bge-reranker-v2-m3/model.safetensors
-models/bge-reranker-v2-m3/.cache
-models/bge-small-zh-v1.5/model.safetensors
-models/bge-small-zh-v1.5/.cache
-models/bge-small-zh-v1.5/pytorch_model.bin
+models/
 outputs/
 .agent/
