@@ -7,6 +7,14 @@ Metierials link of Artificial Intelligence 2025: https://pan.baidu.com/s/1IxueuU
 
 Metierials link of Artificial Intelligence 2026: https://pan.baidu.com/s/1gYJPvpX0N9OsuMgOXRK04A?pwd=dwt8
 
+# 工程文件夹说明
+- AI_2025: 2025年课件
+- AI_2026: 2026年课件
+- Machine_Learning_2024: 2024年《机器学习》课件及实验
+- data：实验数据
+- fonts：实验所需字体
+- images：工程图片
+
 # 参考资料与致敬
 本课程参考以下文献以及多媒体资源，向原作者表达崇高敬意。
 
