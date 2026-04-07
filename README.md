@@ -69,8 +69,9 @@ CSDN：https://blog.csdn.net/south_rosefinch/category_13120133.html
 
 默认前提：
 1. 已安装 Anaconda / Miniconda
-2. `conda venv` 还未创建
-3. 相关包尚未安装
+2. 已安装VS Code，或Cursor、Antigravity、TRAE（这个IDE需同学们自行测试，如果可行记得告诉我）
+3. `conda venv` 还未创建
+4. 相关包尚未安装
 
 ### 1. 创建 Conda 虚拟环境
 
