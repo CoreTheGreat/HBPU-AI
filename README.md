@@ -80,12 +80,14 @@ conda create -n hbpu-ai python=3.11 -y
 conda activate hbpu-ai
 ```
 
-### 2. 安装 PyTorch（CPU 版本）
+### 2. 安装 PyTorch
 
 ```bash
 # 仅安装 CPU 版本
 conda install pytorch torchvision torchaudio cpuonly -c pytorch -y
 ```
+
+TIPS：如果你的电脑有独立显卡，可以安装GPU版本的PyTorch
 
 ### 2.1 可选：配置国内镜像（更快）
 
