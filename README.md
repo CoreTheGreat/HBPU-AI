@@ -73,21 +73,24 @@ CSDN：https://blog.csdn.net/south_rosefinch/category_13120133.html
 3. `conda venv` 还未创建
 4. 相关包尚未安装
 
-### 1. 创建 Conda 虚拟环境
+### 1. 创建 Conda 虚拟环境并拉取代码
 
+运行以下代码创建虚拟环境（环境中没有依赖包）
 ```bash
 conda create -n hbpu-ai python=3.11 -y
 conda activate hbpu-ai
 ```
 
-### 2. 安装 PyTorch
-
+进入git工作目录拉取代码
 ```bash
-# 仅安装 CPU 版本
-conda install pytorch torchvision torchaudio cpuonly -c pytorch -y
+# 码云（国内）
+git clone https://gitee.com/CoreTheGreat/HBPU-AI.git
+# 或者
+# GitHub（国外）
+git clone https://github.com/CoreTheGreat/HBPU-AI.git
 ```
 
-TIPS：如果你的电脑有独立显卡，可以安装GPU版本的PyTorch
+### 2. 安装依赖包
 
 ### 2.1 可选：配置国内镜像（更快）
 
@@ -99,14 +102,6 @@ conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/m
 conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
 conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/r/
 conda config --set show_channel_urls yes
-```
-
-#### pip 镜像
-
-```bash
-pip install -r requirements.txt -i https://mirrors.aliyun.com/pypi/simple/ --trusted-host mirrors.aliyun.com
-# 或者清华源
-pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple/ --trusted-host pypi.tuna.tsinghua.edu.cn
 ```
 
 ### 2.2 验证国内镜像是否生效
@@ -130,7 +125,11 @@ pwd
 
 ```bash
 pip install -r requirements.txt -i https://mirrors.aliyun.com/pypi/simple/ --trusted-host mirrors.aliyun.com
+# 或者清华源
+pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple/ --trusted-host pypi.tuna.tsinghua.edu.cn
 ```
+
+TIPS：如果你的电脑有独立显卡，可以安装GPU版本的PyTorch
 
 ### 4. 运行环境验证
 
